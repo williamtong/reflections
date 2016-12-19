@@ -1,7 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+	Initiate a .git folder.  Get the whole folder ready to be tracked.  It creates a new repo.  However none of the files are "committed," so you need to commit files to them.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	Help keep track of logical steps, each of which may contain more than one file?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
